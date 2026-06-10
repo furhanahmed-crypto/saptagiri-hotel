@@ -1,0 +1,3 @@
+# Redirect old /pages/ URLs to clean root URLs
+RewriteEngine On
+RewriteRule ^pages/(.*)$ /$1 [R=301,L]
