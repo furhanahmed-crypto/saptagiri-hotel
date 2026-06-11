@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'Deluxe | Hotel Saptagiri';
-$pageDescription = 'Deluxe rooms at Hotel Saptagiri — 390 sq ft refurbished rooms with king bed, mini-fridge, and modern amenities in Secunderabad.';
+$pageDescription = 'Deluxe rooms at Hotel Saptagiri — 390 sq ft rooms with king bed, mini-fridge, and modern amenities in Secunderabad.';
 $pageScripts = ['lightbox.js', 'room-gallery.js'];
 require __DIR__ . '/includes/head.php';
 require __DIR__ . '/includes/header.php';
@@ -17,7 +17,7 @@ require __DIR__ . '/includes/header.php';
 
           <h1 class="room-detail__title">Deluxe</h1>
           <p class="room-detail__description">
-            Relax in our deluxe rooms which are spacious and bright measuring 390 sft and totally refurbished. The room comes with a king size bed, customized furniture, gel-infused pillow top mattresses topped with luxurious duvets, cozy couches, a magnificent hallway-dressing area, flat screen TV, mini-fridge, executive desk, wireless internet, all beautifully decorated with climate control at your fingertips and a modern, fully equipped bathroom. The rooms balance elegance and comfort to create a sophisticated and yet, understated luxury. Stay connected with your world without having to step out from the comfort of your room.
+            Relax in our deluxe rooms which are spacious and bright measuring 390 sft. The room comes with a king size bed, customized furniture, gel-infused pillow top mattresses topped with luxurious duvets, cozy couches, a magnificent hallway-dressing area, flat screen TV, mini-fridge, executive desk, wireless internet, all beautifully decorated with climate control at your fingertips and a modern, fully equipped bathroom. The rooms balance elegance and comfort to create a sophisticated and yet, understated luxury. Stay connected with your world without having to step out from the comfort of your room.
           </p>
 
           <hr class="room-detail__divider" />

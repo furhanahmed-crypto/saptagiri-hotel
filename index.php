@@ -221,10 +221,10 @@ require __DIR__ . '/includes/header.php';
           </div>
           <div class="p-6">
             <h3 class="font-display text-2xl text-charcoal">Standard Room</h3>
-            <p class="mt-2 text-sm leading-relaxed text-charcoal-muted">270 sq ft rooms with twin queen beds and all essential comforts.</p>
+            <p class="mt-2 text-sm leading-relaxed text-charcoal-muted">270 sq ft rooms with twin or queen size beds and all essential comforts.</p>
             <div class="mt-4 flex flex-wrap gap-2">
               <span class="rounded-full bg-beige px-3 py-1 text-xs text-charcoal-muted">270 sq ft</span>
-              <span class="rounded-full bg-beige px-3 py-1 text-xs text-charcoal-muted">Twin Queen</span>
+              <span class="rounded-full bg-beige px-3 py-1 text-xs text-charcoal-muted">Twin or Queen Size Bed</span>
               <span class="rounded-full bg-beige px-3 py-1 text-xs text-charcoal-muted">Wi-Fi</span>
             </div>
             <a href="room-standard.php" class="mt-5 inline-flex items-center gap-1 text-sm font-semibold uppercase tracking-wider text-accent hover:text-accent-dark transition-colors">

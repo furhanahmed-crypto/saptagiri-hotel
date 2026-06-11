@@ -17,7 +17,7 @@ require __DIR__ . '/includes/header.php';
 
           <h1 class="room-detail__title">Suite</h1>
           <p class="room-detail__description">
-            Relax in our Suite rooms which are spacious and bright measuring 500 sft and totally refurbished. The suite opens into a sitting room, with a bedroom tucked away from all attention and there is room for privacy even when your guests make themselves comfortable. The room comes with a king size bed, customized furniture, gel-infused pillow top mattresses topped with luxurious duvets, cozy couches, a magnificent hallway-dressing area, flat screen TV, mini-fridge, executive desk, wireless internet, all beautifully decorated with climate control at your fingertips and a modern, fully equipped bathroom with a bath tub. The room comes with a stylish décor and inviting interiors making it an appealing place to stay.
+            Relax in our Suite rooms which are spacious and bright measuring 500 sft. The suite opens into a sitting room, with a bedroom tucked away from all attention and there is room for privacy even when your guests make themselves comfortable. The room comes with a king size bed, customized furniture, gel-infused pillow top mattresses topped with luxurious duvets, cozy couches, a magnificent hallway-dressing area, flat screen TV, mini-fridge, executive desk, wireless internet, all beautifully decorated with climate control at your fingertips and a modern, fully equipped bathroom with a bath tub. The room comes with a stylish décor and inviting interiors making it an appealing place to stay.
           </p>
 
           <hr class="room-detail__divider" />

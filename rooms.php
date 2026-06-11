@@ -99,7 +99,13 @@ require __DIR__ . '/includes/header.php';
                   <td>—</td>
                   <td>1,000</td>
                 </tr>
+
               </tbody>
+              <tfoot>
+                <tr>
+                  <td colspan="3" class="text-center">Tariff includes complimentary breakfast (CP plan).</td>
+                </tr>
+              </tfoot>
             </table>
           </div>
         </div>
@@ -154,7 +160,7 @@ require __DIR__ . '/includes/header.php';
               <div class="p-6">
                 <span class="text-xs font-semibold uppercase tracking-[0.2em] text-gold">270 sq ft</span>
                 <h3 class="mt-2 font-display text-2xl text-charcoal">Standard Room</h3>
-                <p class="mt-2 text-sm leading-relaxed text-charcoal-muted">Bright standard rooms with twin queen beds and all essential comforts for a restful stay.</p>
+                <p class="mt-2 text-sm leading-relaxed text-charcoal-muted">Bright standard rooms with twin or queen beds and all essential comforts for a restful stay.</p>
                 <p class="mt-4 font-display text-xl text-accent">₹ 3,200 – 3,800 <span class="font-body text-sm text-charcoal-muted">/ night</span></p>
                 <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold uppercase tracking-wider text-accent group-hover:text-accent-dark transition-colors">
                   View Details
