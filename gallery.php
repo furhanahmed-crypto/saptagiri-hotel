@@ -29,7 +29,7 @@ require __DIR__ . '/includes/header.php';
             <div class="swiper-slide"><img src="assets/images/hotel-common/Hotel_Saptagiri_Reception.png" alt="Hotel reception" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
             <div class="swiper-slide"><img src="assets/images/hotel/DSC03798.jpg" alt="Hotel exterior" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
             <div class="swiper-slide"><img src="assets/images/hotel/lobby.jpg" alt="Hotel lobby" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
-            <div class="swiper-slide"><img src="assets/images/suite-room/hotel-saptagiri-suite-room.jpg" alt="Suite room" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
+            <div class="swiper-slide"><img src="assets/images/suite-room/hotel-saptagiri-suite-room-overview-img-1.jpg" alt="Suite room" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
             <div class="swiper-slide"><img src="assets/images/banquet-hall/Hotel-saptagiri-banquet-hall.jpg" alt="Banquet hall" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
             <div class="swiper-slide"><img src="assets/images/restaurant/pure-vegetarian-restaurant.jpg" alt="Swarn restaurant" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
           </div>

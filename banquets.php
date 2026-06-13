@@ -39,7 +39,7 @@ require __DIR__ . '/includes/header.php';
 
           <div class="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3" data-banquet-grid>
             <article class="card !flex !flex-col">
-              <img src="assets/images/hotel/DSC04251.jpg" alt="Sannidhanam banquet hall" class="aspect-[4/3] w-full object-cover" />
+              <img src="assets/images/banquet-hall/img-1.jpeg" alt="Sannidhanam banquet hall" class="aspect-[4/3] w-full object-cover" />
               <div class="flex flex-1 flex-col p-6">
                 <h3 class="font-display text-2xl text-charcoal">Sannidhanam</h3>
                 <p class="mt-1 text-sm font-medium text-gold">Capacity: 300 – 600 guests</p>
@@ -48,7 +48,7 @@ require __DIR__ . '/includes/header.php';
               </div>
             </article>
             <article class="card !flex !flex-col">
-              <img src="assets/images/banquet-hall/Banquet-hall-secunderabad.jpg" alt="Srinivasam banquet hall" class="aspect-[4/3] w-full object-cover" />
+              <img src="assets/images/banquet-hall/img-2.jpeg" alt="Srinivasam banquet hall" class="aspect-[4/3] w-full object-cover" />
               <div class="flex flex-1 flex-col p-6">
                 <h3 class="font-display text-2xl text-charcoal">Srinivasam</h3>
                 <p class="mt-1 text-sm font-medium text-gold">Capacity: up to 200 guests</p>
@@ -57,7 +57,7 @@ require __DIR__ . '/includes/header.php';
               </div>
             </article>
             <article class="card !flex !flex-col">
-              <img src="assets/images/banquet-hall/birthday-party-hall-secunderabad.jpg" alt="Kousthubham banquet hall" class="aspect-[4/3] w-full object-cover" />
+              <img src="assets/images/banquet-hall/img-3.jpeg" alt="Kousthubham banquet hall" class="aspect-[4/3] w-full object-cover" />
               <div class="flex flex-1 flex-col p-6">
                 <h3 class="font-display text-2xl text-charcoal">Kousthubham</h3>
                 <p class="mt-1 text-sm font-medium text-gold">Capacity: 100 – 125 guests</p>

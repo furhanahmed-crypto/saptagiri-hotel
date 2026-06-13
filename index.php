@@ -175,7 +175,7 @@ require __DIR__ . '/includes/header.php';
       <div class="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
         <article class="card group">
           <div class="overflow-hidden">
-            <img src="assets/images/suite-room/hotel-saptagiri-suite-room.jpg" alt="Suite at Hotel Saptagiri" class="card-image" />
+            <img src="assets/images/suite-room/hotel-saptagiri-suite-room-overview-img-1.jpg" alt="Suite at Hotel Saptagiri" class="card-image" />
           </div>
           <div class="p-6">
             <h3 class="font-display text-2xl text-charcoal">Suite</h3>
@@ -196,7 +196,7 @@ require __DIR__ . '/includes/header.php';
 
         <article class="card group">
           <div class="overflow-hidden">
-            <img src="assets/images/deluxe-room/deluxe-room-secunderabad.jpg" alt="Deluxe room at Hotel Saptagiri" class="card-image" />
+            <img src="assets/images/deluxe-room/deluxe-room-secunderabad-img-2.jpg" alt="Deluxe room at Hotel Saptagiri" class="card-image" />
           </div>
           <div class="p-6">
             <h3 class="font-display text-2xl text-charcoal">Deluxe</h3>
@@ -217,7 +217,7 @@ require __DIR__ . '/includes/header.php';
 
         <article class="card group md:col-span-2 lg:col-span-1">
           <div class="overflow-hidden">
-            <img src="assets/images/standard-room/hotel-saptagiri-standard-room-passport-office.jpg" alt="Standard room at Hotel Saptagiri" class="card-image" />
+            <img src="assets/images/standard-room/hotel-saptagiri-standard-room-passport-office-img-1.jpg" alt="Standard room at Hotel Saptagiri" class="card-image" />
           </div>
           <div class="p-6">
             <h3 class="font-display text-2xl text-charcoal">Standard Room</h3>
@@ -347,7 +347,7 @@ require __DIR__ . '/includes/header.php';
           <img src="assets/images/hotel-common/Hotel_Saptagiri_Reception.png" alt="Hotel reception and lobby" class="aspect-[4/3] w-full rounded-lg object-cover shadow-soft" />
         </div>
         <div class="swiper-slide">
-          <img src="assets/images/deluxe-room/deluxe-room-secunderabad.jpg" alt="Deluxe room at Hotel Saptagiri" class="aspect-[4/3] w-full rounded-lg object-cover shadow-soft" />
+          <img src="assets/images/deluxe-room/deluxe-room-secunderabad-img-2.jpg" alt="Deluxe room at Hotel Saptagiri" class="aspect-[4/3] w-full rounded-lg object-cover shadow-soft" />
         </div>
         <div class="swiper-slide">
           <img src="assets/images/hotel/DSC04218.jpg" alt="Banquet setup" class="aspect-[4/3] w-full rounded-lg object-cover shadow-soft" />

@@ -53,15 +53,15 @@ require __DIR__ . '/includes/header.php';
 
         <div class="room-detail__gallery" data-room-gallery>
           <div class="room-detail__hero-wrap">
-            <img class="room-detail__hero" data-room-main src="assets/images/standard-room/hotel-spatagiri-secunderabad-railway-station.jpg" alt="Standard room at Hotel Saptagiri" />
+            <img class="room-detail__hero" data-room-main src="assets/images/standard-room/hotel-saptagiri-standard-room-secunderabad-railway-station-img-1.jpg" alt="Standard room at Hotel Saptagiri" />
             <span class="room-detail__zoom-hint">Click to enlarge</span>
           </div>
           <div class="room-detail__thumbs room-detail__thumbs--two" role="tablist" aria-label="Standard room photos">
             <button type="button" class="room-detail__thumb is-active" data-room-thumb aria-selected="true" aria-label="Standard room view 1">
-              <img src="assets/images/rooms/standard.jpg" alt="Standard room at Hotel Saptagiri" />
+              <img src="assets/images/standard-room/hotel-saptagiri-standard-room-img-2.jpg" alt="Standard room at Hotel Saptagiri" />
             </button>
             <button type="button" class="room-detail__thumb" data-room-thumb aria-selected="false" aria-label="Standard room view 2">
-              <img src="assets/images/standard-room/budget-room-secunderabad.jpg" alt="Standard room beds at Hotel Saptagiri" />
+              <img src="assets/images/standard-room/budget-standard-room-secunderabad-img-3.jpg" alt="Standard room beds at Hotel Saptagiri" />
             </button>
           </div>
         </div>

@@ -53,18 +53,18 @@ require __DIR__ . '/includes/header.php';
 
         <div class="room-detail__gallery" data-room-gallery>
           <div class="room-detail__hero-wrap">
-            <img class="room-detail__hero" data-room-main src="assets/images/deluxe-room/premium-deluxe-room-hotel-saptagiri-paradise-junction.jpg" alt="Deluxe room at Hotel Saptagiri" />
+            <img class="room-detail__hero" data-room-main src="assets/images/deluxe-room/hotel-saptagiri-deluxe-room-secunderabad-railway-station-img-1.jpg" alt="Deluxe room at Hotel Saptagiri" />
             <span class="room-detail__zoom-hint">Click to enlarge</span>
           </div>
           <div class="room-detail__thumbs" role="tablist" aria-label="Deluxe photos">
             <button type="button" class="room-detail__thumb is-active" data-room-thumb aria-selected="true" aria-label="Deluxe room view 1">
-              <img src="assets/images/deluxe-room/premium-deluxe-room-hotel-saptagiri-paradise-junction.jpg" alt="Deluxe room at Hotel Saptagiri" />
+              <img src="assets/images/deluxe-room/hotel-saptagiri-deluxe-room-secunderabad-railway-station-img-1.jpg" alt="Deluxe room at Hotel Saptagiri" />
             </button>
             <button type="button" class="room-detail__thumb" data-room-thumb aria-selected="false" aria-label="Deluxe room view 2">
-              <img src="assets/images/deluxe-room/deluxe-room-secunderabad.jpg" alt="Deluxe room interior at Hotel Saptagiri" />
+              <img src="assets/images/deluxe-room/deluxe-room-secunderabad-img-2.jpg" alt="Deluxe room interior at Hotel Saptagiri" />
             </button>
             <button type="button" class="room-detail__thumb" data-room-thumb aria-selected="false" aria-label="Deluxe room view 3">
-              <img src="assets/images/deluxe-room/Hotel-saptagiri-deluxe-room-secunderabad-railway-station.jpg" alt="Deluxe room bed at Hotel Saptagiri" />
+              <img src="assets/images/deluxe-room/premium-deluxe-room-hotel-saptagiri-paradise-junction-img-3.jpg" alt="Deluxe room bed at Hotel Saptagiri" />
             </button>
           </div>
         </div>

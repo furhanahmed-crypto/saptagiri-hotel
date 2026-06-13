@@ -9,7 +9,7 @@ require __DIR__ . '/includes/header.php';
 <main>
       <!-- Page Hero -->
       <section class="page-hero">
-        <img src="assets/images/deluxe-room/deluxe-room-secunderabad.jpg" alt="" class="page-hero__bg" aria-hidden="true" />
+        <img src="assets/images/deluxe-room/deluxe-room-secunderabad-img-2.jpg" alt="" class="page-hero__bg" aria-hidden="true" />
         <div class="container-site page-hero__inner">
           <span class="section-label !text-gold-light">Rooms</span>
           <h1 class="page-hero__title">Experience Comfort and Convenience</h1>
@@ -103,7 +103,7 @@ require __DIR__ . '/includes/header.php';
               </tbody>
               <tfoot>
                 <tr>
-                  <td colspan="3" class="text-center">Tariff includes complimentary breakfast (CP plan).</td>
+                  <td colspan="3" class="text-center">Tariff includes complimentary breakfast (CP plan). Exclusive of 5% GST.</td>
                 </tr>
               </tfoot>
             </table>
@@ -123,7 +123,7 @@ require __DIR__ . '/includes/header.php';
           <div class="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
             <a href="room-suite.php" class="room-card group">
               <div class="overflow-hidden">
-                <img src="assets/images/suite-room/hotel-saptagiri-suite-room.jpg" alt="Suite at Hotel Saptagiri" class="room-card__image" />
+                <img src="assets/images/suite-room/hotel-saptagiri-suite-room-img-1.jpg" alt="Suite at Hotel Saptagiri" class="room-card__image" />
               </div>
               <div class="p-6">
                 <span class="text-xs font-semibold uppercase tracking-[0.2em] text-gold">500 sq ft</span>
@@ -139,7 +139,7 @@ require __DIR__ . '/includes/header.php';
 
             <a href="room-deluxe.php" class="room-card group">
               <div class="overflow-hidden">
-                <img src="assets/images/deluxe-room/premium-deluxe-room-hotel-saptagiri-paradise-junction.jpg" alt="Deluxe room at Hotel Saptagiri" class="room-card__image" />
+                <img src="assets/images/deluxe-room/hotel-saptagiri-deluxe-room-secunderabad-railway-station-img-1.jpg" class="room-card__image" />
               </div>
               <div class="p-6">
                 <span class="text-xs font-semibold uppercase tracking-[0.2em] text-gold">390 sq ft</span>
@@ -155,7 +155,7 @@ require __DIR__ . '/includes/header.php';
 
             <a href="room-standard.php" class="room-card group md:col-span-2 md:max-w-md md:justify-self-center lg:col-span-1 lg:max-w-none">
               <div class="overflow-hidden">
-                <img src="assets/images/rooms/standard-1024x683.jpg" alt="Standard room with twin beds at Hotel Saptagiri" class="room-card__image" />
+                <img src="assets/images/standard-room/hotel-saptagiri-standard-room-twin-beds-img-3.jpg" alt="Standard room with twin beds at Hotel Saptagiri" class="room-card__image" />
               </div>
               <div class="p-6">
                 <span class="text-xs font-semibold uppercase tracking-[0.2em] text-gold">270 sq ft</span>

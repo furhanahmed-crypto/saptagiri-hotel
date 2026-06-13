@@ -8,7 +8,7 @@ require __DIR__ . '/includes/header.php';
 
 <main>
       <section class="page-hero">
-        <img src="assets/images/deluxe-room/deluxe-room-secunderabad.jpg" alt="" class="page-hero__bg" aria-hidden="true" />
+        <img src="assets/images/deluxe-room/deluxe-room-secunderabad-img-2.jpg" alt="" class="page-hero__bg" aria-hidden="true" />
         <div class="container-site page-hero__inner">
           <span class="section-label !text-gold-light">Book Direct</span>
           <h1 class="page-hero__title">Reservation</h1>
