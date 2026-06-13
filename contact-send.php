@@ -34,7 +34,7 @@ if (
     $mail->From = 'info@hotelsaptagiri.in';
     $mail->FromName = 'Hotel Saptagiri';
     $mail->AddAddress('info@hotelsaptagiri.in');
-    $mail->AddAddress('itz.me.farhan6710@gmail.com');
+    $mail->AddAddress('reservations@hotelsaptagiri.in');
     $mail->AddReplyTo($email, $name);
 
     $mail->Subject = 'New enquiry from ' . $name;

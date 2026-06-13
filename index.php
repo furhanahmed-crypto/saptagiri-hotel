@@ -175,7 +175,7 @@ require __DIR__ . '/includes/header.php';
       <div class="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
         <article class="card group">
           <div class="overflow-hidden">
-            <img src="assets/images/suite-room/hotel-saptagiri-suite-room-overview-img-1.jpg" alt="Suite at Hotel Saptagiri" class="card-image" />
+            <img src="assets/images/suite-room/hotel-saptagiri-suite-room-img-1.jpg" alt="Suite at Hotel Saptagiri" class="card-image" />
           </div>
           <div class="p-6">
             <h3 class="font-display text-2xl text-charcoal">Suite</h3>

@@ -79,7 +79,7 @@ if (
     $mail->From = 'info@hotelsaptagiri.in';
     $mail->FromName = 'Hotel Saptagiri';
     $mail->AddAddress('reservations@hotelsaptagiri.in');
-    $mail->AddAddress('itz.me.farhan6710@gmail.com');
+    $mail->AddAddress('info@hotelsaptagiri.in');
 
     $mail->Subject = 'New reservation from ' . $name;
     $mail->WordWrap = 80;
