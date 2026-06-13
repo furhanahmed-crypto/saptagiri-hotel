@@ -3,7 +3,9 @@ $pageTitle = 'Gallery | Hotel Saptagiri';
 $pageDescription = 'Photo gallery of Hotel Saptagiri — rooms, dining, banquets, and hotel ambience in Secunderabad, Hyderabad.';
 $useSwiper = true;
 $pageScripts = ['lightbox.js', 'gallery-filter.js', 'swiper-init.js', 'forms.js'];
-$galleryItems = require __DIR__ . '/includes/gallery-data.php';
+$galleryData = require __DIR__ . '/includes/gallery-data.php';
+$galleryItems = $galleryData['items'];
+$featuredMoments = $galleryData['featured'];
 require __DIR__ . '/includes/head.php';
 require __DIR__ . '/includes/header.php';
 ?>
@@ -26,12 +28,9 @@ require __DIR__ . '/includes/header.php';
         </div>
         <div class="gallery-swiper swiper mt-8 !px-5 sm:!px-6 lg:!px-8">
           <div class="swiper-wrapper">
-            <div class="swiper-slide"><img src="assets/images/hotel-common/Hotel_Saptagiri_Reception.png" alt="Hotel reception" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
-            <div class="swiper-slide"><img src="assets/images/hotel/DSC03798.jpg" alt="Hotel exterior" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
-            <div class="swiper-slide"><img src="assets/images/hotel/lobby.jpg" alt="Hotel lobby" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
-            <div class="swiper-slide"><img src="assets/images/suite-room/hotel-saptagiri-suite-room-overview-img-1.jpg" alt="Suite room" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
-            <div class="swiper-slide"><img src="assets/images/banquet-hall/Hotel-saptagiri-banquet-hall.jpg" alt="Banquet hall" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
-            <div class="swiper-slide"><img src="assets/images/restaurant/pure-vegetarian-restaurant.jpg" alt="Swarn restaurant" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
+<?php foreach ($featuredMoments as $item) : ?>
+            <div class="swiper-slide"><img src="<?php echo htmlspecialchars($item['path'], ENT_QUOTES, 'UTF-8'); ?>" alt="<?php echo htmlspecialchars($item['caption'], ENT_QUOTES, 'UTF-8'); ?>" class="aspect-[16/10] w-full rounded-lg object-cover shadow-card" /></div>
+<?php endforeach; ?>
           </div>
           <div class="swiper-button-prev !left-4"></div>
           <div class="swiper-button-next !right-4"></div>
