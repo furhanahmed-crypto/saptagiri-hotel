@@ -196,7 +196,7 @@ require __DIR__ . '/includes/header.php';
 
         <article class="card group">
           <div class="overflow-hidden">
-            <img src="assets/images/deluxe-room/deluxe-room-secunderabad-img-2.jpg" alt="Deluxe room at Hotel Saptagiri" class="card-image" />
+            <img src="assets/images/deluxe-room/hotel-saptagiri-deluxe-room-secunderabad-railway-station-img-1.jpg" alt="Deluxe room at Hotel Saptagiri" class="card-image" />
           </div>
           <div class="p-6">
             <h3 class="font-display text-2xl text-charcoal">Deluxe</h3>

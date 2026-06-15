@@ -32,8 +32,6 @@ $galleryItems = [
     ['path' => 'assets/images/hotel-common/Hotel-near-secunderabad-railway-station.png', 'category' => 'hotel', 'section' => 'hotel-location', 'caption' => 'Near Secunderabad Railway Station'],
 
     // Rooms
-    ['path' => 'assets/images/deluxe-room/hotel-saptagiri-deluxe-room-secunderabad-railway-station-img-1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Deluxe Room'],
-    ['path' => 'assets/images/hotel/Delux-Room1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Deluxe Room'],
     ['path' => 'assets/images/hotel/dx-room1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Deluxe Room'],
     ['path' => 'assets/images/deluxe-room/hotel-saptagiri-deluxe-room-img-4.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Deluxe Room'],
     ['path' => 'assets/images/suite-room/hotel-saptagiri-suite-room-overview-img-1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Suite Room'],
