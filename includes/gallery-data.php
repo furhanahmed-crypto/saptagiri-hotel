@@ -31,9 +31,6 @@ $galleryItems = [
     // Hotel — restaurant
     ['path' => 'assets/images/restaurant/Hotel-saptagiri-pure-vegetarian-restaurant.jpg', 'category' => 'hotel', 'section' => 'hotel-restaurant', 'caption' => 'Swarn Restaurant'],
 
-    // Hotel — lounge (one sofa image)
-    ['path' => 'assets/images/hotel-common/hotel-saptagiri-welcome-lounge.jpg', 'category' => 'hotel', 'section' => 'hotel-lounge', 'caption' => 'Welcome Lounge'],
-
     // Rooms
     ['path' => 'assets/images/deluxe-room/hotel-saptagiri-deluxe-room-secunderabad-railway-station-img-1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Deluxe Room'],
     ['path' => 'assets/images/hotel/Delux-Room1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Deluxe Room'],
