@@ -12,11 +12,11 @@ require __DIR__ . '/includes/header.php';
 
 <main>
   <!-- Hero -->
-  <section class="hero-swiper swiper relative h-[85vh] min-h-[520px] max-h-[900px]">
+  <section class="hero-swiper swiper relative h-[85vh] min-h-[520px] max-h-[900px]" style="text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
     <div class="swiper-wrapper">
       <div class="swiper-slide relative">
         <img src="assets/images/hotel-common/about-us.png" alt="Hotel Saptagiri exterior at night on St. Mary's Road, Secunderabad" class="absolute inset-0 h-full w-full object-cover" />
-        <div class="absolute inset-0 bg-overlay"></div>
+        <div class="absolute inset-0 bg-overlay-hero"></div>
         <div class="relative flex h-full items-end pb-16 md:items-center md:pb-0">
           <div class="container-site animate-fade-up">
             <p class="section-label !text-beige">Hotel Saptagiri, Secunderabad</p>
@@ -35,7 +35,7 @@ require __DIR__ . '/includes/header.php';
       </div>
       <div class="swiper-slide relative">
         <img src="assets/images/hotel/Delux-Room1.jpg" alt="Grand banquet hall at Hotel Saptagiri" class="absolute inset-0 h-full w-full object-cover" />
-        <div class="absolute inset-0 bg-overlay"></div>
+        <div class="absolute inset-0 bg-overlay-hero"></div>
         <div class="relative flex h-full items-end pb-16 md:items-center md:pb-0">
           <div class="container-site">
             <p class="section-label !text-beige">Rooms</p>
@@ -53,7 +53,7 @@ require __DIR__ . '/includes/header.php';
       </div>
       <div class="swiper-slide relative">
         <img src="assets/images/banquet-hall/Hotel-saptagiri-banquet-hall.jpg" alt="Grand banquet hall at Hotel Saptagiri" class="absolute inset-0 h-full w-full object-cover" />
-        <div class="absolute inset-0 bg-overlay"></div>
+        <div class="absolute inset-0 bg-overlay-hero"></div>
         <div class="relative flex h-full items-end pb-16 md:items-center md:pb-0">
           <div class="container-site">
             <p class="section-label !text-beige">Banquets & Board Rooms</p>
@@ -71,7 +71,7 @@ require __DIR__ . '/includes/header.php';
       </div>
       <div class="swiper-slide relative">
         <img src="assets/images/restaurant/Hotel-saptagiri-pure-vegetarian-restaurant.jpg" alt="Swarn Multi-Cuisine Restaurant at Hotel Saptagiri" class="absolute inset-0 h-full w-full object-cover" />
-        <div class="absolute inset-0 bg-overlay"></div>
+        <div class="absolute inset-0 bg-overlay-hero"></div>
         <div class="relative flex h-full items-end pb-16 md:items-center md:pb-0">
           <div class="container-site">
             <p class="section-label !text-beige">Dining</p>
