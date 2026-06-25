@@ -43,7 +43,6 @@ $galleryItems = [
     ['path' => 'assets/images/standard-room/hotel-saptagiri-standard-room-passport-office-img-1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Standard Room'],
     ['path' => 'assets/images/standard-room/budget-standard-room-secunderabad-img-3.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Budget Standard Room'],
     ['path' => 'assets/images/standard-room/budget-business-standard-room-secunderabad-img-2.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Business Standard Room'],
-    ['path' => 'assets/images/standard-room/hotel-saptagiri-standard-room-twin-beds-img-3.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Standard Room (Twin Beds)'],
 
     // Dining
     ['path' => 'assets/images/restaurant/pure-vegetarian-restaurant.jpg', 'category' => 'dining', 'section' => 'dining', 'caption' => 'Swarn Restaurant'],
