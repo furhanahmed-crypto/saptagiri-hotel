@@ -33,14 +33,11 @@ $galleryItems = [
 
     // Rooms
     ['path' => 'assets/images/deluxe-room/hotel-saptagiri-deluxe-room-secunderabad-railway-station-img-1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Deluxe Room'],
-    ['path' => 'assets/images/hotel/Delux-Room1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Deluxe Room'],
-    ['path' => 'assets/images/hotel/dx-room1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Deluxe Room'],
     ['path' => 'assets/images/deluxe-room/hotel-saptagiri-deluxe-room-img-4.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Deluxe Room'],
     ['path' => 'assets/images/suite-room/hotel-saptagiri-suite-room-overview-img-1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Suite Room'],
     ['path' => 'assets/images/suite-room/premium-suite-room-hotel-secunderabad-img-1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Premium Suite Room'],
     ['path' => 'assets/images/suite-room/hotel-saptagiri-suite-room-img-1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Suite Living Area'],
     ['path' => 'assets/images/suite-room/premium-suite-room-hotel-secunderabad-img-2.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Suite Bedroom'],
-    ['path' => 'assets/images/deluxe-room/premium-deluxe-room-hotel-saptagiri-paradise-junction-img-3.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Premium Deluxe Room'],
     ['path' => 'assets/images/deluxe-room/deluxe-room-secunderabad-img-5.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Deluxe Room'],
     ['path' => 'assets/images/deluxe-room/premium-deluxe-room-hotel-saptagiri-paradise-junction-img-4.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Deluxe Room'],
     ['path' => 'assets/images/standard-room/hotel-saptagiri-standard-room-passport-office-img-1.jpg', 'category' => 'rooms', 'section' => 'rooms', 'caption' => 'Standard Room'],
@@ -59,23 +56,24 @@ $galleryItems = [
     ['path' => 'assets/images/restaurant/pure-veg-buffet-restaurant-jain-thali.jpg', 'category' => 'dining', 'section' => 'dining', 'caption' => 'Jain Buffet Thali'],
 
     // Banquets
+    ['path' => 'assets/images/banquet-hall/banquet-hall-wedding-mandap-ganesha-hotel-saptagiri-img-9.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Wedding Ceremony Mandap'],
     ['path' => 'assets/images/banquet-hall/Hotel-saptagiri-banquet-hall.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Banquet Hall'],
-    ['path' => 'assets/images/banquet-hall/Banquet-hall-secunderabad.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Banquet Hall Secunderabad'],
+    ['path' => 'assets/images/banquet-hall/banquet-hall-wedding-mandap-pillars-hotel-saptagiri-img-7.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Traditional Wedding Mandap'],
+
     ['path' => 'assets/images/banquet-hall/Pure-Veg-banquet-venue-hotel-saptagiri.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Pure Veg Banquet Venue'],
+    ['path' => 'assets/images/banquet-hall/banquet-hall-stage-green-sofa-hotel-saptagiri-img-10.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Reception Stage Setup'],
     ['path' => 'assets/images/banquet-hall/corporate-event-hall-hyderabad.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Corporate Event Hall'],
-    ['path' => 'assets/images/banquet-hall/banquet-hall-srinivasam-entrance-hotel-saptagiri-img-1.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Srinivasam Banquet Entrance'],
     ['path' => 'assets/images/banquet-hall/banquet-hall-stage-curved-sofa-hotel-saptagiri-img-2.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Banquet Stage Decoration'],
+    ['path' => 'assets/images/banquet-hall/Banquet-hall-secunderabad.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Banquet Hall Secunderabad'],
     ['path' => 'assets/images/banquet-hall/banquet-hall-stage-cream-chaise-hotel-saptagiri-img-3.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Banquet Reception Stage'],
     ['path' => 'assets/images/banquet-hall/banquet-hall-wedding-stage-hotel-saptagiri-img-4.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Wedding Stage Setup'],
     ['path' => 'assets/images/banquet-hall/banquet-hall-stage-gold-chaise-hotel-saptagiri-img-5.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Engagement Stage Decoration'],
     ['path' => 'assets/images/banquet-hall/banquet-hall-wedding-mandap-gold-floral-hotel-saptagiri-img-6.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Wedding Mandap Decoration'],
-    ['path' => 'assets/images/banquet-hall/banquet-hall-wedding-mandap-pillars-hotel-saptagiri-img-7.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Traditional Wedding Mandap'],
+    ['path' => 'assets/images/banquet-hall/banquet-hall-birthday-cocomelon-theme-hotel-saptagiri-img-13.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'First Birthday Celebration'],
     ['path' => 'assets/images/banquet-hall/banquet-hall-stage-teal-sofa-hotel-saptagiri-img-8.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Banquet Floral Stage'],
-    ['path' => 'assets/images/banquet-hall/banquet-hall-wedding-mandap-ganesha-hotel-saptagiri-img-9.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Wedding Ceremony Mandap'],
-    ['path' => 'assets/images/banquet-hall/banquet-hall-stage-green-sofa-hotel-saptagiri-img-10.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Reception Stage Setup'],
+    ['path' => 'assets/images/banquet-hall/banquet-hall-srinivasam-entrance-hotel-saptagiri-img-1.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Srinivasam Banquet Entrance'],
     ['path' => 'assets/images/banquet-hall/banquet-hall-birthday-celebration-hotel-saptagiri-img-11.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Birthday Celebration'],
     ['path' => 'assets/images/banquet-hall/banquet-hall-birthday-mickey-mouse-hotel-saptagiri-img-12.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Kids Birthday Party Theme'],
-    ['path' => 'assets/images/banquet-hall/banquet-hall-birthday-cocomelon-theme-hotel-saptagiri-img-13.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'First Birthday Celebration'],
     ['path' => 'assets/images/banquet-hall/banquet-hall-birthday-aviksha-celebration-hotel-saptagiri-img-14.jpg', 'category' => 'banquets', 'section' => 'banquets', 'caption' => 'Birthday Party Decoration'],
 
     // Board Room & Conference Halls
