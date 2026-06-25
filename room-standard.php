@@ -61,7 +61,7 @@ require __DIR__ . '/includes/header.php';
               <img src="assets/images/standard-room/hotel-saptagiri-standard-room-secunderabad-railway-station-img-1.jpg" alt="Standard room at Hotel Saptagiri" />
             </button>
             <button type="button" class="room-detail__thumb" data-room-thumb aria-selected="false" aria-label="Standard room view 2">
-              <img src="assets/images/standard-room/hotel-saptagiri-standard-room-img-2.jpg" alt="Standard room interior at Hotel Saptagiri" />
+              <img src="assets/images/standard-room/budget-standard-room-secunderabad-img-3.jpg" alt="Standard room interior at Hotel Saptagiri" />
             </button>
             <button type="button" class="room-detail__thumb" data-room-thumb aria-selected="false" aria-label="Standard room view 3">
               <img src="assets/images/standard-room/hotel-saptagiri-standard-room-twin-beds-img-3.jpg" alt="Standard room twin beds at Hotel Saptagiri" />
